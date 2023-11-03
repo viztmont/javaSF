@@ -1,0 +1,6 @@
+com\vizmont\java\web\pruebajsf\bean\Readers.class
+com\vizmont\java\web\pruebajsf\JAXRSConfiguration.class
+com\vizmont\java\web\pruebajsf\bean\Blogs.class
+com\vizmont\java\web\pruebajsf\bean\ReaderPorBlogs.class
+com\vizmont\java\web\pruebajsf\resources\JavaEE8Resource.class
+com\vizmont\java\web\pruebajsf\bean\AbstractBean.class
